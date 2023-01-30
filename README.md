@@ -2,6 +2,8 @@
 
 [Deployment Document](https://shorthillstech-my.sharepoint.com/:w:/p/preeti/EV4cBTdGEddIoBlTktV-n4kBY7Du_9gyIA77MDDVucA3Qg?e=laFTNu)
 
+Video: [Click Here](https://shorthillstech-my.sharepoint.com/:v:/p/preeti/EX1rWFQY2exIqNgIMSWlH_QBmXBL6acSrkAsEY4-jk2_zw?e=XFa4E1)
+
 ### 1. Create a shell script (deploy.sh) in the staging.
 
 ![Screenshot from 2023-01-30 11-19-01](https://user-images.githubusercontent.com/115537106/215397420-5ce6f53f-4580-46e4-b913-e28c2114bb1d.png)
