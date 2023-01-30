@@ -10,7 +10,7 @@ jobs:
      
     steps: 
     - name: executing remote ssh commands using ssh key  
-      uses: appleboy/ssh-action@master  
+      uses: appleboy/ssh-action@staging  
       with:  
           host: ${{ secrets.AZURE_HOST }}  
           username: ${{ secrets.AZURE_USER }}  
