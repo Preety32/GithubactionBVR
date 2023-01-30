@@ -9,3 +9,5 @@
 
 
 ### 2. Create a workflow (.github/workflows/staging.yml)
+![Screenshot from 2023-01-30 11-21-23](https://user-images.githubusercontent.com/115537106/215397745-8c392b87-b0a0-4493-ab1c-829bcb2bae69.png)
+
